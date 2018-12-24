@@ -1,0 +1,5 @@
+baseURL = "http://librairie-du-lac.ch/"
+languageCode = "fr-ch"
+title = "Librairie du lac"
+
+theme = "ldl"
